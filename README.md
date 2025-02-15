@@ -109,17 +109,33 @@ Below are some screenshots of the KDJ website:
 ### Homepage
 ![Homepage](images/home-page.png)
 
+### Homepage/tools
+![Homepage-tools](images/home-tools.png)
+
+### Homepage/abot
+![Homepage-about](images/contact-form.png)
+
 ### Login Page
 ![Login Page](images/login.png)
 
 ### Register Page
 ![Register Page](images/register.png)
 
+### Digital Tools Page
+![Digital Tools Page Page](images/tools-1.png)
+![Digital Tools Page Page](images/tools-2.png)
+
 ###Education Page
 ![Education Page](images/education-page.png)
 
-### Contact Form
-![Contact Form](images/contact-form.png)
+### KDJ - Forum
+![Forum](images/forum-page.png)
+
+### KDJ - Forum/search
+![Forum Search](images/search-in-forum.png)
+
+### KDJ - Forum/create
+![Forum Create](images/create-forum.png)
 
 *(Note: Replace the image paths with actual paths to your screenshots.)*
 
