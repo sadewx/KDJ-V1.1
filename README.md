@@ -112,7 +112,7 @@ Below are some screenshots of the KDJ website:
 ### Homepage/tools
 ![Homepage-tools](images/home-tools.png)
 
-### Homepage/abot
+### Homepage/about
 ![Homepage-about](images/contact-form.png)
 
 ### Login Page
