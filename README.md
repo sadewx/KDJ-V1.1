@@ -137,8 +137,6 @@ Below are some screenshots of the KDJ website:
 ### KDJ - Forum/create
 ![Forum Create](images/create-forum.png)
 
-*(Note: Replace the image paths with actual paths to your screenshots.)*
-
 ---
 
 ## Contributing
@@ -163,4 +161,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or issues, feel free to open an issue in the repository or contact the development team.
 
-Happy coding! 🚀
+Happy coding! 🚀 Developed by @ZAEW
